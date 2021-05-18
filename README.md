@@ -4,7 +4,7 @@
 
 To classify a person, create a cell at the bottom of the notebook and run `classify(information list)`
 
-The `information list` is a list containing 0s and 1s, corresponding to No/ Yes, in the following order:
+The `information list` is a list containing 0s and 1s, corresponding to No/ Yes for the following, in order:
 
 cough || fever || sore_throat || shortness_of_breath || head_ache || age_60_and_above || sex(1: Male, 0: Female) 
 
