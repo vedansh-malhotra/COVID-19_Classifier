@@ -1,6 +1,6 @@
 # COVID-19 Prediction Tool #
 
-### K Nearest-Neighbours classifier for COVID-19 Symptoms, with 92.8% accuracy ###
+### K Nearest-Neighbours classifier for COVID-19 Symptoms  (92.8% accuracy) ###
 
 To classify a person, create a cell at the bottom of the notebook and run `classify(information list)`
 
