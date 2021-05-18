@@ -8,7 +8,8 @@ The `information list` is a list containing 0s and 1s, corresponding to No/ Yes,
 
 cough || fever || sore_throat || shortness_of_breath || head_ache || age_60_and_above || sex(1: Male, 0: Female) 
 
-For Eg: if a female under the age of 60 has cough, sore throat, and head ache, they would be classified using: 
+For Eg: if a female under the age of 60 has cough, sore throat, and head ache, they would be classified using:
+
 `classify([1, 0, 1, 0, 1, 0, 0])`
 
 -------------------------------------------------------------------------------------------------------------------------------------
