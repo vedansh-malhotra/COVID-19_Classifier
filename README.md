@@ -2,7 +2,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 ### K Nearest-Neighbours classifier for COVID-19 Symptoms, with 92.8% accuracy ###
 
-To classify a person, create a cell at the bottom of the notebook and run classify(<information list>)
+To classify a person, create a cell at the bottom of the notebook and run classify(`information list`)
+
 The information list is a list containing 0s and 1s, corresponding to No/ Yes, in the following order:
 
 cough || fever || sore_throat || shortness_of_breath || head_ache || age_60_and_above || sex(1: Male, 0: Female) 
