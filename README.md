@@ -1,10 +1,9 @@
-K Nearest-Neighbours classifier for COVID-19, with 92.3% accuracy
-
 ### COVID-19 PREDICTION TOOL ###
 ### Developer: Vedansh Malhotra ###
 Sources: CSV file taken from https://github.com/nshomron/covidpred/blob/master/data/corona_tested_individuals_ver_006.english.csv.zip 
          CSV file originally sourced from: https://data.gov.il/dataset/covid-19 
-#-------------------------------------------------------------------------------------------------------#
+-------------------------------------------------------------------------------------------------------------------------------------
+# K Nearest-Neighbours classifier for COVID-19, with 92.3% accuracy #
 
 To classify a person, create a cell at the bottom of the notebook and run classify(<information list>)
 The information list is a list containing 0s and 1s, corresponding to No/ Yes, in the following order:
