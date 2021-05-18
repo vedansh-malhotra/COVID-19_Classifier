@@ -1,4 +1,4 @@
-# COVID-19 PREDICTION TOOL #
+# COVID-19 Prediction Tool #
 -------------------------------------------------------------------------------------------------------------------------------------
 ### K Nearest-Neighbours classifier for COVID-19 Symptoms, with 92.8% accuracy ###
 
